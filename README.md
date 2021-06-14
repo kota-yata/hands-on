@@ -1,2 +1,2 @@
-# Issues-Discussions
-Sample repository for GitHub hands-on
+# GitHubハンズオン
+このリポジトリはGitHubハンズオン用です。
